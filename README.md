@@ -13,6 +13,8 @@ Weight: 91,7 g
 
 [Download BrickLink Studio](https://www.bricklink.com/v3/studio/download.page) (edit model, see parts info)
 
+[Pick A Brick](https://www.lego.com/en-us/page/static/pick-a-brick) (order parts straight from LEGO)
+
 ![Sample](lego-lg-tv-riser.jpg)
 ![Top View](lego-lg-tv-riser-top.png)
 ![Bottom View](lego-lg-tv-riser-bottom.png)
